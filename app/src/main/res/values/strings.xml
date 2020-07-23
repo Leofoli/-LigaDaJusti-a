@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Liga da justica</string>
+    <string name="nomeSuperman"> Clark Kent/Kal\'el</string>
+    <string name="codinomeSuperman"> Superman</string>
+    <string name="especieSuperman"> Kryptoniano</string>
+    <string name="habilidadesSuperman"> Super-força, super-velocidade, invulnerabilidade, visão raio-x, visão telescópica, visão térmica,
+        visão de calor, visão microscópica, super-audição, super-folêgo, grito supersônico, vôo, super sopro, resistência a venenos e radiação,
+        regeneração, super inteligência, sopro congelante, suspensão dos sentidos, imortalidade
+    </string>
+    <string name="batimanNome"> Bruce Wayne</string>
+    <string name="batimanCodinome"> Batman</string>
+    <string name="especieBatiman"> Humano</string>
+    <string name="habilidadesbatman"> especialista em artes marciais, prefeição humana, maior detetive do mundo, furtividade,  </string>
+    <string name="flashNome"> Barry Allen</string>
+    <string name="flashCodinome"> Flash</string>
+    <string name="flashEspecie"> meta-humano</string>
+    <string name="flashHabilidades">SuperVelocidade</string>
+    <string name="mmNome">Diana Prince</string>
+    <string name="mmCodinome">Mulher maravilha</string>
+    <string name="mmEspecie">Semi-deusa</string>
+    <string name="mmHabilidades">Imortalidade, super forÃ§a, resistência, velocidade e agilidade, excelente artista marcial, especialista em armas de combate amazonas, manipulação de energia, voo, consegue projetar energia com os braceletes</string>
+</resources>
